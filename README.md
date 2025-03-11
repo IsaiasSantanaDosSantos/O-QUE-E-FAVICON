@@ -44,16 +44,16 @@ Exemplo de favicon no formato `.ico`:
 ### Método 1: Na plataforma da DRM
 
 Clique em "Meu Site":
-![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/image/meuSite.png)
+![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/meuSite.png)
 
 Depois em "Página Principal":
-![Página principal](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/image/mainPage.png)
+![Página principal](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/mainPage.png)
 
 Depois em "Logotipo e ícone":
-![Logotipo e ícone](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/image/faviconExample.png)
+![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/faviconExample.jpg)
 
 Na tela seguinte, faça o upload do logotipo obedecendo as especificações:
-![Logotipo e ícone](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/image/lista.png)
+![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/lista.png)
 
 E pronto! Agora basta aguardar a propagação que poderá levar até 4 horas.
 

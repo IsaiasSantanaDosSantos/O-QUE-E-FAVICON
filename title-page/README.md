@@ -13,7 +13,7 @@ O **title** de uma página web é o texto exibido na aba do navegador e nos resu
 ## Como Definir um Title no sistema da DRM?
 
 Clique em "Meu Site":
-![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/title-page/image/meuSite.png)
+![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/meuSite.png)
 
 Depois clique em "administração":
 ![Administrador](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/title-page/image/admin.png)
