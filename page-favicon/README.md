@@ -12,7 +12,7 @@ O **favicon** ("favorite icon") é um pequeno ícone associado a um site ou pág
 
 ### Exemplo de favicon exibido na aba do navegador:
 
-![Exemplo de Favicon](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/image/faviconExample.jpg)
+![Exemplo de Favicon](https://github.com/DRMEducacao/Template-Ocean/blob/main/page-favicon/check-listBeforeDelivery/image/faviconExample.jpg)
 
 ---
 
@@ -44,16 +44,16 @@ Exemplo de favicon no formato `.ico`:
 ### Método 1: Na plataforma da DRM
 
 Clique em "Meu Site":
-![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/meuSite.png)
+![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/page-favicon/image/meuSite.png)
 
 Depois em "Página Principal":
-![Página principal](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/mainPage.png)
+![Página principal](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/page-favicon/image/mainPage.png)
 
 Depois em "Logotipo e ícone":
-![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/image/faviconDRM.png)
+![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/page-favicon/image/faviconDRM.png)
 
 Na tela seguinte, faça o upload do logotipo obedecendo as especificações:
-![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/lista.png)
+![Ícone](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/page-favicon/image/iconEdite.png)
 
 E pronto! Agora basta aguardar a propagação que poderá levar até 4 horas.
 
