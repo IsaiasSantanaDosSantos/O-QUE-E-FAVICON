@@ -6,23 +6,23 @@ O **title** de uma página web é o texto exibido na aba do navegador e nos resu
 
 ### Exemplo de title exibido na aba do navegador:
 
-![Exemplo de Title](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/title-page/image/pageTitle.png)
+![Exemplo de Title](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/title-page/image/pageTitle.png)
 
 ---
 
 ## Como Definir um Title no sistema da DRM?
 
 Clique em "Meu Site":
-![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/image/meuSite.png)
+![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/image/meuSite.png)
 
 Depois clique em "administração":
-![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/title-page/image/admin.png)
+![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/title-page/image/admin.png)
 
 Depois clique em "Nomenclatura":
-![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/title-page/image/nomenclatura.png)
+![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/title-page/image/nomenclatura.png)
 
 Na lista, busque por "Páginas - Título Loja" e adicione o título desejado:
-![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/check-listBeforeDelivery/title-page/image/editar.png)
+![Meu Site](https://github.com/DRMEducacao/Template-Ocean/blob/main/title-page/image/editar.png)
 
 ---
 
