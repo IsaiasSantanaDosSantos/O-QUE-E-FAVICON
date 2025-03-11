@@ -50,7 +50,7 @@ Depois em "Página Principal":
 ![Página principal](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/mainPage.png)
 
 Depois em "Logotipo e ícone":
-![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/faviconExample.jpg)
+![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/image/faviconDRM.png)
 
 Na tela seguinte, faça o upload do logotipo obedecendo as especificações:
 ![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/lista.png)
