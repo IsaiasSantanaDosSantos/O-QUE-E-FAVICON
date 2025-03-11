@@ -20,7 +20,7 @@ O **Google Tag Manager (GTM)** é uma ferramenta gratuita do Google que permite 
    - Clique em **Criar Conta** e preencha as informações do site.
 2. **Adicione o código ao seu site**
 
-Geralmente, para adicionar a tag do GTM em um site, é necessário ter acesso ao código-fonte da página e conhecimento básico sobre HTML. No entanto, facilitamos esse processo para que a adição da tag (código) ao nosso sistema seja mais ágil. Veja a seguir:
+Geralmente, para adicionar a tag do GTM em um site, é necessário ter acesso ao código-fonte da página e conhecimento básico sobre HTML. No entanto, facilitamos esse processo para que a adição da tag (código) ao nosso sistema seja mais ágil sem a necessidade de manipulação do código-fonte da página. Veja a seguir:
 
 Obtenha o código da tag da conta criada:
 ![GTM Code](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/gtm/image/gtmCode.png)
