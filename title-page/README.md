@@ -16,11 +16,11 @@ O title desempenha um papel fundamental em diferentes aspectos:
 
 ## Boas Práticas para Titles
 
-Para garantir que o title seja eficaz, siga estas diretrizes:
-✅ **Seja Claro e Objetivo** (Máximo de 60 caracteres)
-✅ **Inclua Palavras-chave Relevantes** (Ajuda no SEO)
-✅ **Evite Textos Genéricos como "Página Inicial"**
-✅ **Use o Nome da Marca + Descrição da Página**
+Para garantir que o title seja eficaz, siga estas diretrizes:  
+✅ **Seja Claro e Objetivo** (Máximo de 60 caracteres)  
+✅ **Inclua Palavras-chave Relevantes** (Ajuda no SEO)  
+✅ **Evite Textos Genéricos como "Página Inicial"**  
+✅ **Use o Nome da Marca + Descrição da Página**  
 
 ### Exemplo de Title Otimizado:
 
