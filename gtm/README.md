@@ -38,7 +38,7 @@ Clique em "+" para adicionar uma nova tag:
 ![Adicionar nova](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/gtm/image/addNew.png)
 
 E adicione ou cole exatamente o mesmo código no campo exibido:
-![Colar código GTM](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/gtm/image/save.png)
+![Colar código GTM](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/gtm/image/salve.png)
 
 Pronto!
 
