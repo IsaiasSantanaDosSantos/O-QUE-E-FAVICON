@@ -34,7 +34,7 @@ Você pode criar um favicon usando ferramentas gráficas ou geradores online. El
 - [GIMP](https://www.gimp.org/)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
-Exemplo de favicon no formato `.ico`:  
+Exemplo de favicon no formato `.ico`:&emsp;
 ![Exemplo de Favicon](https://euestudo.com.vc/sys/images/icon.png)
 
 ---
