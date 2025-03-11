@@ -20,13 +20,14 @@ Para garantir que o title seja eficaz, siga estas diretrizes:
 ✅ **Seja Claro e Objetivo** (Máximo de 60 caracteres)  
 ✅ **Inclua Palavras-chave Relevantes** (Ajuda no SEO)  
 ✅ **Evite Textos Genéricos como "Página Inicial"**  
-✅ **Use o Nome da Marca + Descrição da Página**  
+✅ **Use o Nome da Marca + Descrição da Página**
 
 ### Exemplo de Title Otimizado:
 
 ```html
 <title>Curso de Programação Online | Aprenda a Codar</title>
 ```
+
 ---
 
 ### Exemplo de title exibido na aba do navegador:
@@ -38,7 +39,7 @@ Para garantir que o title seja eficaz, siga estas diretrizes:
 ## Como Definir um Title no sistema da DRM?
 
 Clique em "Meu Site":
-![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/meuSite.png)
+![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/page-favicon/image/meuSite.png)
 
 Depois clique em "administração":
 ![Administrador](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/title-page/image/admin.png)

@@ -12,7 +12,7 @@ O **favicon** ("favorite icon") é um pequeno ícone associado a um site ou pág
 
 ### Exemplo de favicon exibido na aba do navegador:
 
-![Exemplo de Favicon](https://github.com/DRMEducacao/Template-Ocean/blob/main/page-favicon/check-listBeforeDelivery/image/faviconExample.jpg)
+![Exemplo de Favicon](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/page-favicon/image/faviconExample.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ Você pode criar um favicon usando ferramentas gráficas ou geradores online. El
 - [GIMP](https://www.gimp.org/)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
-Exemplo de favicon no formato `.ico`:
+Exemplo de favicon no formato `.ico`:  
 ![Exemplo de Favicon](https://euestudo.com.vc/sys/images/icon.png)
 
 ---

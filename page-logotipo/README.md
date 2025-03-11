@@ -18,18 +18,18 @@ O **logotipo da página** é uma identidade visual exibida na barra de navegaç�
 ## Como Adicionar um Logotipo no sistema da DRM?
 
 Clique em "Meu Site":
-![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/meuSite.png)
+![Meu Site](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/page-favicon/image/meuSite.png)
 
 Depois clique em "Página Principal":
-![Página principal](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/image/mainPage.png)
+![Página principal](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/page-favicon/image/mainPage.png)
 
 Depois em "Logotipo e ícone":
-![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/image/faviconDRM.png)
+![Logotipo e ícone](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/page-favicon/image/faviconDRM.png)
 
 Na lista, clique em "Logotipo (162x60)" e faço o upload de um logo tipo obedecendo as especificações:
 ![Editar logotipo](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/page-logotipo/image/logotipoEdite.png)
 
-## Pronto!
+E pronto!.
 
 ## Como Adicionar um Logotipo no HTML?
 
