@@ -11,7 +11,7 @@ O **logotipo da página** é uma identidade visual exibida na barra de navegaç�
 - **Página de login**
 - **Favicon (ícone da aba do navegador)**
 
-![Exemplo de Logotipo no Site](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/page-logotipo/image/logotipoExemplo.png)
+![Exemplo de Logotipo no Site](https://github.com/IsaiasSantanaDosSantos/Pre-delivery-checklist/blob/main/page-logotipo/image/logotipoExemple.png)
 
 ---
 
@@ -66,10 +66,8 @@ Para melhor exibição, utilize os seguintes formatos e tamanhos:
 Para ajustar o tamanho e posicionamento do logotipo, utilize CSS:
 
 ```css
-.logo {
-  width: 150px;
-  height: auto;
-  display: block;
+.navbarImg img {
+  width: 100%;
   margin: 0 auto;
 }
 ```
