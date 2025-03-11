@@ -4,6 +4,31 @@
 
 O **title** de uma página web é o texto exibido na aba do navegador e nos resultados de busca. Ele é um dos elementos mais importantes para a experiência do usuário e para SEO (Search Engine Optimization).
 
+## Importância do Title
+
+O title desempenha um papel fundamental em diferentes aspectos:
+
+- **Navegação**: Ajuda os usuários a identificarem rapidamente a aba ativa no navegador.
+- **SEO (Otimização para Mecanismos de Busca)**: O título é um dos principais fatores de ranqueamento do Google.
+- **Compartilhamento em Redes Sociais**: Algumas redes sociais usam o title ao exibir links compartilhados.
+
+---
+
+## Boas Práticas para Titles
+
+Para garantir que o title seja eficaz, siga estas diretrizes:
+✅ **Seja Claro e Objetivo** (Máximo de 60 caracteres)
+✅ **Inclua Palavras-chave Relevantes** (Ajuda no SEO)
+✅ **Evite Textos Genéricos como "Página Inicial"**
+✅ **Use o Nome da Marca + Descrição da Página**
+
+### Exemplo de Title Otimizado:
+
+```html
+<title>Curso de Programação Online | Aprenda a Codar</title>
+```
+---
+
 ### Exemplo de title exibido na aba do navegador:
 
 ![Exemplo de Title](https://github.com/IsaiasSantanaDosSantos/O-QUE-E-FAVICON/blob/main/title-page/image/pageTitle.png)
@@ -41,32 +66,6 @@ Para definir o título da aba de um site, utilize a tag `<title>` dentro do `<he
     <h1>Bem-vindo ao Meu Site</h1>
   </body>
 </html>
-```
-
----
-
-## Importância do Title
-
-O title desempenha um papel fundamental em diferentes aspectos:
-
-- **Navegação**: Ajuda os usuários a identificarem rapidamente a aba ativa no navegador.
-- **SEO (Otimização para Mecanismos de Busca)**: O título é um dos principais fatores de ranqueamento do Google.
-- **Compartilhamento em Redes Sociais**: Algumas redes sociais usam o title ao exibir links compartilhados.
-
----
-
-## Boas Práticas para Titles
-
-Para garantir que o title seja eficaz, siga estas diretrizes:
-✅ **Seja Claro e Objetivo** (Máximo de 60 caracteres)
-✅ **Inclua Palavras-chave Relevantes** (Ajuda no SEO)
-✅ **Evite Textos Genéricos como "Página Inicial"**
-✅ **Use o Nome da Marca + Descrição da Página**
-
-### Exemplo de Title Otimizado:
-
-```html
-<title>Curso de Programação Online | Aprenda a Codar</title>
 ```
 
 ---
